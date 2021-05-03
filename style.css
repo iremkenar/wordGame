@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+#timer {
+  text-align: center;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+.word-container {
+  margin-top: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 80px;
+}
+.list-length {
+  margin: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+#start-btn {
+  text-align: center;
+  width: 100px;
+  height: 40px;
+  margin: 50px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
